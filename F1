@@ -1,0 +1,7 @@
+salut tous,
+git fetch/git merge
+
+git fetch : récupère toutes les données des commits effectués sur la branche
+courante qui n'existent pas encore dans la version en local. Ces données seront
+stockées dans le répertoire de travail local mais ne seront pas fusionnées avec la
+branche locale
